@@ -20,8 +20,8 @@ SQL Project for the Udacity full-stack Web Developer course
   * Generate new matching for upcoming rounds
  
  
- `tournament_test.sql`
- * Test suite to check functionality of tournament.py 
+`tournament_test.sql`
+* Test suite to check functionality of tournament.py 
 
 
 ### To run locally:
