@@ -8,6 +8,7 @@ SQL Project for the Udacity full-stack Web Developer course
 * Defines tables
 * Defines views
 
+
 `tournament.py`
 * Python functions to:
   * connect to db
@@ -17,6 +18,7 @@ SQL Project for the Udacity full-stack Web Developer course
   * Delete matches
   * Inquire standings/scores
   * Generate new matching for upcoming rounds
+ 
  
  `tournament_test.sql`
  * Test suite to check functionality of tournament.py 
